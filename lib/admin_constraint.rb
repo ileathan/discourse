@@ -8,3 +8,4 @@ class AdminConstraint
   end
 
 end
+
